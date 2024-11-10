@@ -27,5 +27,5 @@ struct MenuImageView: View {
 }
 
 #Preview {
-    MenuImageView(name: "Poulet")
+    MenuImageView(name: "Poisson")
 }
